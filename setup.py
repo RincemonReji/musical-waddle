@@ -12,8 +12,8 @@ setuptools.setup(
     version=__version__,
     url="https://mau.dev/tulir/tgfilestream",
 
-    author="Tulir Asokan",
-    author_email="tulir@maunium.net",
+    author="Films and Trends",
+    author_email="filmsandtrends01@gmail.con",
 
     description="A Telegram bot that can stream Telegram files to users over HTTP.",
     long_description=long_desc,
